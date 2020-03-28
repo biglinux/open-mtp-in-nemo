@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nemo $(gio mount -li | grep -e ^Volume -e activation_root | cut -f2 -d= | grep mtp)

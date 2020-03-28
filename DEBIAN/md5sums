@@ -1,0 +1,4 @@
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+acb4d2db517da7cf831b8356fc58fc62  DEBIAN/control
+04d9e0f6fa3872566fe280ff48b828a7  usr/bin/open-mtp-in-nautilus
+3b37de1145daea7dd9d0515aa8a5ad71  usr/share/solid/actions/solid_mtp_nautilus.desktop

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-KDE-Solid-Predicate=PortableMediaPlayer.supportedProtocols == 'mtp'
+Type=Service
+Actions=open;
+
+[Desktop Action open]
+Exec=/usr/bin/open-mtp-in-nemo
+Icon=smartphone
+Name=Open with Nemo
+Name[pt]=Abrir com o Nemo
+Name[pt_BR]=Abrir com o Nemo
+
